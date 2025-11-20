@@ -36,7 +36,7 @@ const Footer = () => {
             <ul className="footer-contact">
               <li><FiMapPin /> Ateneo de Naga University</li>
               <li><FiPhone /> +63 XXX XXX XXXX</li>
-              <li><FiMail /> cya@adnu.edu.ph</li>
+              <li><FiMail /> cya_org@gbox.adnu.edu.ph</li>
             </ul>
           </div>
 
